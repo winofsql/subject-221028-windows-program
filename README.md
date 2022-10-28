@@ -8,3 +8,4 @@
   - ### [WSH](https://ja.wikipedia.org/wiki/Windows_Script_Host)
     - ### 言語1 : VBScript( VB : .vbs / .wsf )
 		- ### 言語2 : Jscript( JavaScript : .js / .wsf )
+ 
