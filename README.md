@@ -14,7 +14,7 @@
 			
   - ### [WSH : wscript.exe ( windows アプリとして ) / cscript.exe ( コンソールアプリとして )](https://ja.wikipedia.org/wiki/Windows_Script_Host)
     - ### 言語1 : VBScript( VB : .vbs / .wsf )
-			- #### 関数言語
+	- #### 関数言語
     - ### 言語2 : Jscript( JavaScript : .js / .wsf )
  
   - ### PHP : php.exe
