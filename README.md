@@ -3,11 +3,11 @@
 
 - ### Windows10
   - ### COM コンポーネント
-    - ###	Excel.Application => Excel の処理全般
-    - ###	WScript.Shell => Windows の基本処理
-    - ###	ADODB.Connection => DB接続
-    - ###	ADODB.Recordset  => SELECT の読み出し( 容易に更新可能 )
-    - ###	CDO.Message => メール送信
+    - ### Excel.Application => Excel の処理全般
+    - ### WScript.Shell => Windows の基本処理
+    - ### ADODB.Connection => DB接続
+    - ### ADODB.Recordset  => SELECT の読み出し( 容易に更新可能 )
+    - ### CDO.Message => メール送信
 	
   - ###	コマンドプロンプト( cmd.exe )
 	  - ### 言語 : バッチファイル ( .bat )
