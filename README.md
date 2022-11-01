@@ -22,7 +22,7 @@
 
   - ### PowerShell : powershell.exe
     - ### 準備 : 設定 => 更新とセキュリテイ => 開発者 の一番下までスクロールしてセキュリティロックを外す
-		- ### 言語 : PowerShell
+    - ### 言語 : PowerShell
 
   - ### Python : python.exe
     - ### 準備 : pip を最新にアップデートして、pywin32 を pip でインストール
